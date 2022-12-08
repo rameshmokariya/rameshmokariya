@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on PowerBI Project
 - 🌱 I’m currently learning PowerBI
-- 💬 Ask me about ...
+- 💬 Ask me about related to Data
 - 📫 How to reach me: rameshmokariya1608@gmail.com
 - 😄 Pronouns: He/Him
